@@ -1,0 +1,1 @@
+This is my first Odin project, I am creating google homepage using html and css. Doing this successfully will show my competence in using these languages and git included. From the odin project curriculumm: http://www.theodinproject.com/courses/web-development-101/lessons/html-css
